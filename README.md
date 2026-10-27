@@ -194,14 +194,6 @@ Let `n` be the number of items and `m` be the number of capacity constraints.
 - A fixed approximation ratio is not guaranteed for arbitrary multidimensional knapsack instances.
 - The fractional LP objective provides an upper bound on the optimal integer objective for this maximization problem.
 
-## How to Run
-
-Run the main Python program:
-
-```bash
-python main.py
-```
-
 ## Author
 
 Amrit Kumar Jena
